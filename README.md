@@ -5,11 +5,6 @@ Built for the analytical reasons for static/github pages since no server logic c
 
 Web Data Includes:
 Connection Location, Device Location, Broswer Information, Device CPU, Device OS, Device Battery Information, Connection Information (IP, HOST, Previous Page)
-
-
-<img src="Example-1.PNG" width="600">
-<img src="Example-2.PNG" width="600">
-
 ## Set Up
 ### Step 1
 Create a Slack workspace if you don't have one yet. go to [HERE](https://slack.com/)
